@@ -1,0 +1,488 @@
+[25-Jul-2018 20:24:59 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[25-Jul-2018 20:24:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:24:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:24:59 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:24:59 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:28:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:28:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:28:36 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:28:36 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:28:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:28:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:28:51 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:28:51 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:29:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:29:30 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:30 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:29:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:29:34 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:34 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[25-Jul-2018 20:29:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[25-Jul-2018 20:29:51 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[25-Jul-2018 20:29:51 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:27:14 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[26-Jul-2018 09:27:15 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:27:15 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:27:15 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:27:15 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:29:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:29:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:29:13 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:29:13 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:41:25 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:41:25 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:41:25 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:41:25 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:44:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:44:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:44:44 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:44:44 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:45:40 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:45:40 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:45:40 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:45:40 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:42 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:49:42 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:49:42 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:42 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:49:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:49:44 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:44 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:56 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:49:56 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:49:56 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:49:56 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:59:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 09:59:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 09:59:53 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 09:59:53 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:00:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:00:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:00:58 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:00:58 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:02:46 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:02:46 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:02:46 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:02:46 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:04:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:04:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:04:58 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:04:58 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:06:16 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:06:16 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:06:16 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:06:16 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:06:43 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:06:43 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:06:43 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:06:43 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:26:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:26:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:26:39 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:26:39 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:27:05 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 10:27:05 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 10:27:05 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:27:05 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 10:36:21 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 252
+[26-Jul-2018 10:55:39 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 252
+[26-Jul-2018 10:56:49 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 252
+[26-Jul-2018 10:57:43 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 252
+[26-Jul-2018 11:23:21 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[26-Jul-2018 11:23:22 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 11:23:22 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 11:23:22 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:23:22 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:25:53 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[26-Jul-2018 11:34:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 11:34:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 11:34:36 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:34:36 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:54:55 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 11:54:55 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 11:54:55 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:54:55 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:55:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 11:55:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 11:55:21 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 11:55:21 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 12:00:06 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 12:00:06 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 12:00:06 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 12:00:06 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 12:02:33 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 12:02:33 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 12:02:33 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 12:02:33 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[26-Jul-2018 14:00:30 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[26-Jul-2018 14:04:21 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[26-Jul-2018 14:04:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 14:04:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 14:04:21 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:04:21 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:09:10 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[26-Jul-2018 14:11:17 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[26-Jul-2018 14:11:56 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[26-Jul-2018 14:11:56 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 14:11:56 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 14:11:56 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:11:56 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:16:21 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[26-Jul-2018 14:17:24 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[26-Jul-2018 14:17:24 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[26-Jul-2018 14:17:24 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[26-Jul-2018 14:17:24 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:17:24 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[26-Jul-2018 14:17:54 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 09:24:13 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 09:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 09:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 09:24:13 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 09:24:13 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 09:33:10 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:35:33 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:37:44 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 09:37:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 09:37:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 09:37:44 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 09:37:44 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 09:45:16 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:48:16 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:53:27 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:54:56 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 09:56:07 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 12:44:12 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 12:44:12 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 12:44:12 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 12:44:12 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 12:44:12 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 12:44:49 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 12:44:49 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 12:44:49 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 12:44:49 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 12:44:49 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 12:53:05 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 12:56:02 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 12:58:49 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:01:24 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 13:06:32 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 13:06:33 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 13:06:33 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 13:06:33 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:06:33 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:12:57 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:13:45 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 13:13:46 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 13:13:46 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 13:13:46 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:13:46 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:16:28 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:17:57 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:30:15 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:33:19 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 13:33:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 13:33:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 13:33:20 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:33:20 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:43:10 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 13:43:10 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 13:43:10 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:43:10 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:52:44 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 13:54:55 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 13:54:55 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 13:54:55 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 13:54:55 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 13:54:55 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:02:23 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 14:06:17 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 14:07:50 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 14:08:16 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 14:08:16 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 14:08:16 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 14:08:16 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:08:16 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:08:50 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 14:08:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 14:08:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 14:08:50 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:08:50 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:11:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 14:11:58 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 14:11:58 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 14:11:58 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:13:13 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:15:56 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:17:13 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:17:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 16:17:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 16:17:13 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:17:13 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:29:48 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:32:57 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:37:03 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:37:03 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 16:37:03 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 16:37:03 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:37:03 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:41:09 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:42:43 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:45:39 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:47:13 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:47:14 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 16:47:14 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 16:47:14 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:47:14 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:50:09 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:51:18 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:54:07 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 16:58:38 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 16:58:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 16:58:39 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 16:58:39 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 16:58:39 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 17:00:52 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:01:43 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 17:03:47 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:05:25 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 17:15:07 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:16:07 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[27-Jul-2018 17:16:08 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 17:16:08 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 17:16:08 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 17:16:08 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 17:20:14 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[27-Jul-2018 17:20:35 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[27-Jul-2018 17:23:18 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:27:05 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:29:17 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:31:34 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:33:19 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:35:23 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:37:01 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[27-Jul-2018 17:39:53 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 11:27:29 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 14:50:55 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 15:06:41 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:14:21 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:20:39 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:26:46 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:28:09 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:31:54 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:40:27 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 15:42:49 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 15:42:49 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 15:42:49 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 15:42:49 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 15:42:49 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 15:45:34 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[28-Jul-2018 15:46:51 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[28-Jul-2018 15:55:41 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:00:29 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:07:47 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:08:20 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:08:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 16:08:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 16:08:20 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:08:20 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:18:53 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[28-Jul-2018 16:19:50 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[28-Jul-2018 16:20:06 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:21:01 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:29:07 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:30:48 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:30:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 16:30:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 16:30:48 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:30:48 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:37:04 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 27
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/header.php on line 35
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 16
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 92
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 103
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/menu.php on line 114
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 249
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: coun in /home/laemnet/public_html/user/dashboard.php on line 282
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 286
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: city in /home/laemnet/public_html/user/dashboard.php on line 292
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 296
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: prov in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: cities in /home/laemnet/public_html/user/dashboard.php on line 302
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 351
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 540
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: pck in /home/laemnet/public_html/user/dashboard.php on line 574
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 584
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined variable: ear in /home/laemnet/public_html/user/dashboard.php on line 626
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 634
+[28-Jul-2018 16:47:53 Asia/Manila] PHP Notice:  Undefined index: username in /home/laemnet/public_html/user/dashboard.php on line 692
+[28-Jul-2018 16:48:07 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:52:33 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:54:58 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[28-Jul-2018 16:54:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[28-Jul-2018 16:54:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[28-Jul-2018 16:54:59 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:54:59 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[28-Jul-2018 16:56:51 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[28-Jul-2018 16:58:54 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 08:48:30 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 08:50:50 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 08:52:08 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 08:57:54 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 08:57:54 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[29-Jul-2018 08:57:54 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[29-Jul-2018 08:57:54 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 08:57:54 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 09:06:59 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 09:08:45 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 09:35:48 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 09:36:13 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 09:38:35 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 09:38:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[29-Jul-2018 09:38:36 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[29-Jul-2018 09:38:36 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 09:38:36 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 09:45:11 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 09:46:29 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 09:46:29 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[29-Jul-2018 09:46:29 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[29-Jul-2018 09:46:29 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 09:46:29 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 09:49:43 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 09:51:12 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[29-Jul-2018 10:38:25 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[29-Jul-2018 10:38:26 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[29-Jul-2018 10:38:26 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[29-Jul-2018 10:38:26 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[29-Jul-2018 10:38:26 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[30-Jul-2018 15:52:45 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[30-Jul-2018 15:58:49 Asia/Manila] PHP Deprecated:  Function eregi() is deprecated in /home/laemnet/public_html/user/signup2.php on line 255
+[30-Jul-2018 16:00:48 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287
+[30-Jul-2018 16:00:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 434
+[30-Jul-2018 16:00:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/laemnet/public_html/user/dashboard.php on line 442
+[30-Jul-2018 16:00:48 Asia/Manila] PHP Notice:  Undefined variable: pcountry in /home/laemnet/public_html/user/dashboard.php on line 448
+[30-Jul-2018 16:00:48 Asia/Manila] PHP Notice:  Undefined variable: pcity in /home/laemnet/public_html/user/dashboard.php on line 448
+[30-Jul-2018 16:01:28 Asia/Manila] PHP Notice:  Undefined variable: errormsg in /home/laemnet/public_html/user/index.php on line 287

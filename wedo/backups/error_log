@@ -1,0 +1,10 @@
+[25-Apr-2016 15:00:30 UTC] PHP Warning:  include_once(z_db.php): failed to open stream: No such file or directory in /home/rgen/public_html/user/admin/backups/backup.php on line 2
+[25-Apr-2016 15:00:30 UTC] PHP Warning:  include_once(): Failed opening 'z_db.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/rgen/public_html/user/admin/backups/backup.php on line 2
+[25-Apr-2016 15:00:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rgen/public_html/user/admin/backups/backup.php on line 20
+[25-Apr-2016 15:00:31 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host 'rgen_ulvl' (2) in /home/rgen/public_html/user/admin/backups/backup.php on line 20
+[25-Apr-2016 15:00:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/rgen/public_html/user/admin/backups/backup.php on line 21
+[25-Apr-2016 15:00:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rgen/public_html/user/admin/backups/backup.php on line 27
+[25-Apr-2016 15:00:31 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rgen/public_html/user/admin/backups/backup.php on line 27
+[25-Apr-2016 15:00:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rgen/public_html/user/admin/backups/backup.php on line 27
+[25-Apr-2016 15:00:31 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/rgen/public_html/user/admin/backups/backup.php on line 28
+[25-Apr-2016 15:00:31 UTC] PHP Notice:  Undefined variable: return in /home/rgen/public_html/user/admin/backups/backup.php on line 68

@@ -1,0 +1,14 @@
+[15-May-2016 00:42:35 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, object given in /home/cmpcintl/public_html/user/test/date.php on line 32
+[15-May-2016 00:42:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cmpcintl/public_html/user/test/date.php on line 36
+[15-May-2016 00:42:38 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, object given in /home/cmpcintl/public_html/user/test/date.php on line 32
+[15-May-2016 00:42:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cmpcintl/public_html/user/test/date.php on line 36
+[15-May-2016 00:42:39 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, object given in /home/cmpcintl/public_html/user/test/date.php on line 32
+[15-May-2016 00:42:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cmpcintl/public_html/user/test/date.php on line 36
+[15-May-2016 01:37:02 UTC] PHP Fatal error:  Call to a member function format() on integer in /home/cmpcintl/public_html/user/test/date.php on line 50
+[15-May-2016 01:38:10 UTC] PHP Fatal error:  Call to a member function format() on integer in /home/cmpcintl/public_html/user/test/date.php on line 50
+[15-May-2016 01:38:12 UTC] PHP Fatal error:  Call to a member function format() on integer in /home/cmpcintl/public_html/user/test/date.php on line 50
+[15-May-2016 01:55:50 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cmpcintl/public_html/user/test/date.php on line 53
+[15-May-2016 01:58:20 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cmpcintl/public_html/user/test/date.php on line 56
+[15-May-2016 01:58:22 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cmpcintl/public_html/user/test/date.php on line 56
+[15-May-2016 02:05:14 UTC] PHP Fatal error:  Call to a member function format() on integer in /home/cmpcintl/public_html/user/test/date.php on line 51
+[15-May-2016 02:06:55 UTC] PHP Fatal error:  Call to a member function format() on integer in /home/cmpcintl/public_html/user/test/date.php on line 51

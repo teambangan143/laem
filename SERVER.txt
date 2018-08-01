@@ -1,0 +1,3 @@
+DB: laemnet_db
+DB Name: root
+Password:
