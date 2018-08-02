@@ -3,6 +3,8 @@
 
 include_once("z_db.php");
 
+
+
 // Inialize session
 
 session_start();
@@ -22,6 +24,8 @@ if (!isset($_SESSION['username'])) {
 			";
 
 }
+
+
 
 $payto = $_SESSION['username'];
 
@@ -422,35 +426,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['todo']) && (($_POST['t
                                         </div>
 
                                     </div>
-
-
-                                    <!--<div class="col-md-6 col-sm-6">
-
-                                                        <div class="panel b-a">
-
-
-                                                          <div class="text-center" style="background-color: #177bbb !important;"><form action='renewaccount.php' method='post'></br><input type='hidden' name='todo' value='paymentpost'>
-                                                          <button type='submit' class='btn-info1 btn btn-s-ven'>Purchase Additional Package</button>  </form> </div>
-
-
-
-                                                        </div>
-
-                                                      </div>-->
-
-
-                                    <!--<div class="col-md-6 col-sm-6">
-
-                                                        <div class="panel b-a">
-
-                                                          <div class="text-center" style="background-color: #4cae4c !important;"><form action='prodcodereg.php' method='post'></br><input type='hidden' name='todo' value='paymentpost'>
-                                                          <button type='submit' class='btn btn-success1 btn-s-ven'>Register Maintenance</button>  </form> </div>
-
-
-
-                                                        </div>
-
-                                                      </div>-->
 
 
                                     <div class="col-lg-12">
